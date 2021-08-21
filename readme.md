@@ -9,7 +9,7 @@ Cloning Overwatch-Selection-Window with HTML and CSS
 
 # demo
 
-https://lesanf.github.io/Overwatch-Selection/
+[Overwatch-Selection-Window](https://lesanf.github.io/Overwatch-Selection/){: target="\_blank"}
 
 # Preview
 
