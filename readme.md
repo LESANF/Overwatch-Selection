@@ -9,7 +9,7 @@ Cloning Overwatch-Selection-Window with HTML and CSS
 
 # demo
 
-https://tranquil-journey-66023.herokuapp.com/
+https://lesanf.github.io/Overwatch-Selection/
 
 # Preview
 
